@@ -7,8 +7,8 @@ The Output will be saved in Keywords.csv File
 
 Sample Outputs :
 
-https://github.com/TheSunilVarma/Generating-Keywords-for-Google-Ads/blob/master/output1.PNG
-https://github.com/TheSunilVarma/Generating-Keywords-for-Google-Ads/blob/master/output2.PNG
+![alt text](https://github.com/TheSunilVarma/Generating-Keywords-for-Google-Ads/blob/master/output1.PNG)
+![alt text](https://github.com/TheSunilVarma/Generating-Keywords-for-Google-Ads/blob/master/output2.PNG)
 
 # How to Use This Project
 
