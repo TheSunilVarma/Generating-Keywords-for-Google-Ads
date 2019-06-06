@@ -7,8 +7,8 @@ The Output will be saved in Keywords.csv File
 
 Sample Outputs :
 
-![alt text](https://github.com/TheSunilVarma/Generating-Keywords-for-Google-Ads/blob/master/output1.PNG)
-![alt text](https://github.com/TheSunilVarma/Generating-Keywords-for-Google-Ads/blob/master/output2.PNG)
+![Output_1](https://github.com/TheSunilVarma/Generating-Keywords-for-Google-Ads/blob/master/output1.PNG)
+![Output_2](https://github.com/TheSunilVarma/Generating-Keywords-for-Google-Ads/blob/master/output2.PNG)
 
 # How to Use This Project
 
@@ -19,6 +19,3 @@ OR
 You Can Just have a Non Interactive Look here : https://nbviewer.jupyter.org/github/TheSunilVarma/Generating-Keywords-for-Google-Ads/blob/master/notebook.ipynb
 
 ## Thank You !
-
-
-This Project is available on DataCamp by Elias Dabbas.
